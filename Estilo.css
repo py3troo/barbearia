@@ -1,0 +1,34 @@
+#menu {
+  list-style: none;
+  padding: 0;
+  background-color: rgb(37, 37, 39);
+}
+
+#menu li{
+  display:inline;
+}
+
+#menu li a{
+  display:inline;
+  color: #fff;
+  text-decoration: none;
+  padding: 26px;
+  display: inline-block;
+}
+
+#menu li a:hover{
+ background-color:rgb(24,139,233);
+}
+
+#menu ul li: last-child h1{
+  float:right;
+  display:inline;
+}
+
+#Cortes {
+  background-color: #4ad;
+}
+
+#Contato{
+    
+}
